@@ -613,17 +613,21 @@ span.botted {
 .test {
 
   min-height: 500px;
-  position : relative;
   background: url(../images/NY.jpg)no-repeat;
   background-size: cover,
 
 }
 
-.subclass{
+.team{
+  min-height : 500px;
+  background-color: white;
+}
+
+/*.subclass{
   position : absolute;
   z-index: 10;
 
-}
+} */
 .quotation-main p {
     font-size: 1.3em;
     color: #000;
